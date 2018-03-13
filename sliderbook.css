@@ -2,15 +2,3 @@ body{
 	height:576px;
 	width: 1024px;
  }
-
-.carousel{
-	display:block;
-	margin: 0 auto;
-	width:920px;
-	height:518px;
-}
-
-img{
-	width:920px;
-	height:518px;
-}
