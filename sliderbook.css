@@ -6,11 +6,11 @@ body{
 .carousel{
 	display:block;
 	margin: 0 auto;
-	height:576px;
-	width: 1024px;
+	width:920px;
+	height:518px;
 }
 
 img{
-	height:576px;
-	width: 1024px;
+	width:920px;
+	height:518px;
 }
