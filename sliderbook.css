@@ -1,4 +1,4 @@
-body{ 
-	height:432px;
-	width: 768px;
- }
+.carousel{
+	display:block;
+	margin: 0 auto;
+}
